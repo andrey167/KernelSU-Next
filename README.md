@@ -2,7 +2,7 @@ A based-on [`Backslashxx/KernelSU`](https://github.com/backslashxx/KernelSU)
 
 ## Integration
 ```sh
-curl -LSs "https://raw.githubusercontent.com/Sorayukii/KernelSU-Next/stable/kernel/setup.sh" | bash -s hookless
+curl -LSs "https://raw.githubusercontent.com/andrey167/KernelSU-Next/stable/kernel/setup.sh" | bash -s hookless
 ```
 
 ## Instruction
